@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* CryptoWalletAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* CryptoWalletAppTests.m */; };
+		00E356F31AD99517003FC87E /* AjebutterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AjebutterTests.m */; };
 		0EF78B001F1549A8B4B11425 /* RobotoCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AB3438016B44C049644B0C1 /* RobotoCondensed-Regular.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -21,7 +21,7 @@
 		7BE7A97BDCC646A4BE82576B /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A24DEA8055A44CC783E59B6C /* Roboto-BoldItalic.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		90D5C1739F7844F7A5F2E35C /* RobotoCondensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C37192428081488AAF92701F /* RobotoCondensed-LightItalic.ttf */; };
-		9327DEE3ABBA9AB0C808149C /* libPods-CryptoWalletApp-CryptoWalletAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 936AC9CB33178F73BAA496CE /* libPods-CryptoWalletApp-CryptoWalletAppTests.a */; };
+		9327DEE3ABBA9AB0C808149C /* libPods-Ajebutter-AjebutterTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 936AC9CB33178F73BAA496CE /* libPods-Ajebutter-AjebutterTests.a */; };
 		A24824FEEA424779BA23BDBD /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2B587B5C50D94A438BD91E76 /* Roboto-Medium.ttf */; };
 		B5DBFC7239144C5D906A872D /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 53FCA66CBA434A1BBE37CEB0 /* Roboto-BlackItalic.ttf */; };
 		BF592484270C9268006827A3 /* libswiftWebKit.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = BF592483270C9268006827A3 /* libswiftWebKit.tbd */; };
@@ -30,7 +30,7 @@
 		D87B7C1BDA9F47DFBA99D652 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FBC48B5828C14366B329AAC8 /* Roboto-Black.ttf */; };
 		DBE61992886D418DB07AEB3A /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 51EC861FDE3B4C5690C1A29B /* Roboto-MediumItalic.ttf */; };
 		DDBC8E6CF1144FCABC4DBEEE /* RobotoCondensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C1F0D2664CC048938A0CB9D2 /* RobotoCondensed-Light.ttf */; };
-		E387BCC2C449BBBBA529AB8F /* libPods-CryptoWalletApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 213E786AD63B480471AB5E26 /* libPods-CryptoWalletApp.a */; };
+		E387BCC2C449BBBBA529AB8F /* libPods-Ajebutter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 213E786AD63B480471AB5E26 /* libPods-Ajebutter.a */; };
 		F5573DEA2604436EB606CDA9 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 404AA8C6DB3A4E2C96C24FC8 /* Roboto-Bold.ttf */; };
 		F56AE0C626674DBEA41A799E /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9AEC54239934412A05BA0EF /* Roboto-Light.ttf */; };
 /* End PBXBuildFile section */
@@ -41,36 +41,36 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = CryptoWalletApp;
+			remoteInfo = Ajebutter;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* CryptoWalletAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CryptoWalletAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* AjebutterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AjebutterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* CryptoWalletAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CryptoWalletAppTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* AjebutterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AjebutterTests.m; sourceTree = "<group>"; };
 		0B7F20AF82CF4CA8AE35562A /* RobotoCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-BoldItalic.ttf"; path = "../assets/fonts/RobotoCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* CryptoWalletApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CryptoWalletApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = CryptoWalletApp/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = CryptoWalletApp/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = CryptoWalletApp/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CryptoWalletApp/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = CryptoWalletApp/main.m; sourceTree = "<group>"; };
-		213E786AD63B480471AB5E26 /* libPods-CryptoWalletApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CryptoWalletApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* Ajebutter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ajebutter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Ajebutter/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Ajebutter/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Ajebutter/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Ajebutter/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Ajebutter/main.m; sourceTree = "<group>"; };
+		213E786AD63B480471AB5E26 /* libPods-Ajebutter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Ajebutter.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B587B5C50D94A438BD91E76 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
 		2E845EC9207A4EA48AF4C368 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
-		3CBE53FA144A3865CF133DFA /* Pods-CryptoWalletApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptoWalletApp.debug.xcconfig"; path = "Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp.debug.xcconfig"; sourceTree = "<group>"; };
+		3CBE53FA144A3865CF133DFA /* Pods-Ajebutter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ajebutter.debug.xcconfig"; path = "Target Support Files/Pods-Ajebutter/Pods-Ajebutter.debug.xcconfig"; sourceTree = "<group>"; };
 		404AA8C6DB3A4E2C96C24FC8 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		428945D5052945CBBE213BD6 /* RobotoCondensed-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-Italic.ttf"; path = "../assets/fonts/RobotoCondensed-Italic.ttf"; sourceTree = "<group>"; };
 		51EC861FDE3B4C5690C1A29B /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-MediumItalic.ttf"; path = "../assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
 		53FCA66CBA434A1BBE37CEB0 /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BlackItalic.ttf"; path = "../assets/fonts/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
-		651A7042656A2209C00E35FC /* Pods-CryptoWalletApp-CryptoWalletAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptoWalletApp-CryptoWalletAppTests.debug.xcconfig"; path = "Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		651A7042656A2209C00E35FC /* Pods-Ajebutter-AjebutterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ajebutter-AjebutterTests.debug.xcconfig"; path = "Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests.debug.xcconfig"; sourceTree = "<group>"; };
 		6A433278F1A34E80A6DAF1D2 /* Roboto-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Italic.ttf"; path = "../assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; };
 		7AB3438016B44C049644B0C1 /* RobotoCondensed-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-Regular.ttf"; path = "../assets/fonts/RobotoCondensed-Regular.ttf"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CryptoWalletApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Ajebutter/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A1525020D124D62AEBCBCB7 /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-LightItalic.ttf"; path = "../assets/fonts/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
-		936AC9CB33178F73BAA496CE /* libPods-CryptoWalletApp-CryptoWalletAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CryptoWalletApp-CryptoWalletAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9F0B3D73722C233D6AA252E0 /* Pods-CryptoWalletApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptoWalletApp.release.xcconfig"; path = "Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp.release.xcconfig"; sourceTree = "<group>"; };
+		936AC9CB33178F73BAA496CE /* libPods-Ajebutter-AjebutterTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Ajebutter-AjebutterTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F0B3D73722C233D6AA252E0 /* Pods-Ajebutter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ajebutter.release.xcconfig"; path = "Target Support Files/Pods-Ajebutter/Pods-Ajebutter.release.xcconfig"; sourceTree = "<group>"; };
 		A24DEA8055A44CC783E59B6C /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BoldItalic.ttf"; path = "../assets/fonts/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
 		B2C15DDEA5B04A54A2EE2236 /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-ThinItalic.ttf"; path = "../assets/fonts/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
 		BF592483270C9268006827A3 /* libswiftWebKit.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libswiftWebKit.tbd; path = usr/lib/swift/libswiftWebKit.tbd; sourceTree = SDKROOT; };
@@ -79,7 +79,7 @@
 		C9AEC54239934412A05BA0EF /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
 		DCED6C99891E4DE8B4C565CF /* Roboto-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Thin.ttf"; path = "../assets/fonts/Roboto-Thin.ttf"; sourceTree = "<group>"; };
 		DE7F06E4E6FD4B49991893DF /* RobotoCondensed-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-Bold.ttf"; path = "../assets/fonts/RobotoCondensed-Bold.ttf"; sourceTree = "<group>"; };
-		E85459AA5971E26FB401C058 /* Pods-CryptoWalletApp-CryptoWalletAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptoWalletApp-CryptoWalletAppTests.release.xcconfig"; path = "Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		E85459AA5971E26FB401C058 /* Pods-Ajebutter-AjebutterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ajebutter-AjebutterTests.release.xcconfig"; path = "Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		FBC48B5828C14366B329AAC8 /* Roboto-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Black.ttf"; path = "../assets/fonts/Roboto-Black.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,7 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9327DEE3ABBA9AB0C808149C /* libPods-CryptoWalletApp-CryptoWalletAppTests.a in Frameworks */,
+				9327DEE3ABBA9AB0C808149C /* libPods-Ajebutter-AjebutterTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF592484270C9268006827A3 /* libswiftWebKit.tbd in Frameworks */,
-				E387BCC2C449BBBBA529AB8F /* libPods-CryptoWalletApp.a in Frameworks */,
+				E387BCC2C449BBBBA529AB8F /* libPods-Ajebutter.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* CryptoWalletAppTests */ = {
+		00E356EF1AD99517003FC87E /* AjebutterTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* CryptoWalletAppTests.m */,
+				00E356F21AD99517003FC87E /* AjebutterTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = CryptoWalletAppTests;
+			path = AjebutterTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* CryptoWalletApp */ = {
+		13B07FAE1A68108700A75B9A /* Ajebutter */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -132,16 +132,16 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = CryptoWalletApp;
+			name = Ajebutter;
 			sourceTree = "<group>";
 		};
 		200E3CF230878A0CFD27AE9E /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3CBE53FA144A3865CF133DFA /* Pods-CryptoWalletApp.debug.xcconfig */,
-				9F0B3D73722C233D6AA252E0 /* Pods-CryptoWalletApp.release.xcconfig */,
-				651A7042656A2209C00E35FC /* Pods-CryptoWalletApp-CryptoWalletAppTests.debug.xcconfig */,
-				E85459AA5971E26FB401C058 /* Pods-CryptoWalletApp-CryptoWalletAppTests.release.xcconfig */,
+				3CBE53FA144A3865CF133DFA /* Pods-Ajebutter.debug.xcconfig */,
+				9F0B3D73722C233D6AA252E0 /* Pods-Ajebutter.release.xcconfig */,
+				651A7042656A2209C00E35FC /* Pods-Ajebutter-AjebutterTests.debug.xcconfig */,
+				E85459AA5971E26FB401C058 /* Pods-Ajebutter-AjebutterTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -151,8 +151,8 @@
 			children = (
 				BF592483270C9268006827A3 /* libswiftWebKit.tbd */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				213E786AD63B480471AB5E26 /* libPods-CryptoWalletApp.a */,
-				936AC9CB33178F73BAA496CE /* libPods-CryptoWalletApp-CryptoWalletAppTests.a */,
+				213E786AD63B480471AB5E26 /* libPods-Ajebutter.a */,
+				936AC9CB33178F73BAA496CE /* libPods-Ajebutter-AjebutterTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -167,9 +167,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* CryptoWalletApp */,
+				13B07FAE1A68108700A75B9A /* Ajebutter */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* CryptoWalletAppTests */,
+				00E356EF1AD99517003FC87E /* AjebutterTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				200E3CF230878A0CFD27AE9E /* Pods */,
@@ -183,8 +183,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* CryptoWalletApp.app */,
-				00E356EE1AD99517003FC87E /* CryptoWalletAppTests.xctest */,
+				13B07F961A680F5B00A75B9A /* Ajebutter.app */,
+				00E356EE1AD99517003FC87E /* AjebutterTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -217,9 +217,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* CryptoWalletAppTests */ = {
+		00E356ED1AD99517003FC87E /* AjebutterTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "CryptoWalletAppTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AjebutterTests" */;
 			buildPhases = (
 				7E3B92929E409163C3592395 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -233,14 +233,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = CryptoWalletAppTests;
-			productName = CryptoWalletAppTests;
-			productReference = 00E356EE1AD99517003FC87E /* CryptoWalletAppTests.xctest */;
+			name = AjebutterTests;
+			productName = AjebutterTests;
+			productReference = 00E356EE1AD99517003FC87E /* AjebutterTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* CryptoWalletApp */ = {
+		13B07F861A680F5B00A75B9A /* Ajebutter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "CryptoWalletApp" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Ajebutter" */;
 			buildPhases = (
 				741CF81BB8BE9D66B05158E9 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -255,9 +255,9 @@
 			);
 			dependencies = (
 			);
-			name = CryptoWalletApp;
-			productName = CryptoWalletApp;
-			productReference = 13B07F961A680F5B00A75B9A /* CryptoWalletApp.app */;
+			name = Ajebutter;
+			productName = Ajebutter;
+			productReference = 13B07F961A680F5B00A75B9A /* Ajebutter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -277,7 +277,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "CryptoWalletApp" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Ajebutter" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -290,8 +290,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* CryptoWalletApp */,
-				00E356ED1AD99517003FC87E /* CryptoWalletAppTests */,
+				13B07F861A680F5B00A75B9A /* Ajebutter */,
+				00E356ED1AD99517003FC87E /* AjebutterTests */,
 			);
 		};
 /* End PBXProject section */
@@ -354,15 +354,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter/Pods-Ajebutter-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter/Pods-Ajebutter-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Ajebutter/Pods-Ajebutter-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		5C7695BCD880100152AA9188 /* [CP] Embed Pods Frameworks */ = {
@@ -371,15 +371,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		639A0B30608E01A0EA707313 /* [CP] Copy Pods Resources */ = {
@@ -388,15 +388,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp-CryptoWalletAppTests/Pods-CryptoWalletApp-CryptoWalletAppTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Ajebutter-AjebutterTests/Pods-Ajebutter-AjebutterTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		741CF81BB8BE9D66B05158E9 /* [CP] Check Pods Manifest.lock */ = {
@@ -414,7 +414,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-CryptoWalletApp-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Ajebutter-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -427,15 +427,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter/Pods-Ajebutter-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Ajebutter/Pods-Ajebutter-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptoWalletApp/Pods-CryptoWalletApp-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Ajebutter/Pods-Ajebutter-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7E3B92929E409163C3592395 /* [CP] Check Pods Manifest.lock */ = {
@@ -453,7 +453,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-CryptoWalletApp-CryptoWalletAppTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Ajebutter-AjebutterTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -486,7 +486,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* CryptoWalletAppTests.m in Sources */,
+				00E356F31AD99517003FC87E /* AjebutterTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -504,7 +504,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* CryptoWalletApp */;
+			target = 13B07F861A680F5B00A75B9A /* Ajebutter */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -512,14 +512,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 651A7042656A2209C00E35FC /* Pods-CryptoWalletApp-CryptoWalletAppTests.debug.xcconfig */;
+			baseConfigurationReference = 651A7042656A2209C00E35FC /* Pods-Ajebutter-AjebutterTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = CryptoWalletAppTests/Info.plist;
+				INFOPLIST_FILE = AjebutterTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -533,17 +533,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CryptoWalletApp.app/CryptoWalletApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ajebutter.app/Ajebutter";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E85459AA5971E26FB401C058 /* Pods-CryptoWalletApp-CryptoWalletAppTests.release.xcconfig */;
+			baseConfigurationReference = E85459AA5971E26FB401C058 /* Pods-Ajebutter-AjebutterTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = CryptoWalletAppTests/Info.plist;
+				INFOPLIST_FILE = AjebutterTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -557,19 +557,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CryptoWalletApp.app/CryptoWalletApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ajebutter.app/Ajebutter";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3CBE53FA144A3865CF133DFA /* Pods-CryptoWalletApp.debug.xcconfig */;
+			baseConfigurationReference = 3CBE53FA144A3865CF133DFA /* Pods-Ajebutter.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = CryptoWalletApp/Info.plist;
+				INFOPLIST_FILE = Ajebutter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -584,7 +584,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = CryptoWalletApp;
+				PRODUCT_NAME = Ajebutter;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -593,12 +593,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9F0B3D73722C233D6AA252E0 /* Pods-CryptoWalletApp.release.xcconfig */;
+			baseConfigurationReference = 9F0B3D73722C233D6AA252E0 /* Pods-Ajebutter.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = CryptoWalletApp/Info.plist;
+				INFOPLIST_FILE = Ajebutter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -613,7 +613,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = CryptoWalletApp;
+				PRODUCT_NAME = Ajebutter;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -745,7 +745,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "CryptoWalletAppTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AjebutterTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -754,7 +754,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "CryptoWalletApp" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Ajebutter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -763,7 +763,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "CryptoWalletApp" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Ajebutter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

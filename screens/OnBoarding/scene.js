@@ -87,20 +87,67 @@ const OnBoarding = (props) => {
           >
             <View
               style={{
-                flex: 1,
+                // flexdirection: "row",
+                flexDirection: "row",
                 alignItems: "center",
                 justifyContent: "center",
                 marginBottom: "70%",
+                // backgroundColor: "green",
+                height: 500,
+                justifyContent: 'flex-start',
               }}
             >
-              <Image
-                source={item.img}
-                resizeMode="cover"
+              <View
                 style={{
-                  width: "100%",
-                  height: "100%",
+                  backgroundColor: "red",
+                  flex: 1,
+                  // width: "20%",
+                  height: "60%",
                 }}
-              />
+              >
+                <Image
+                  source={item.img}
+                  resizeMode="cover"
+                  style={{
+                    // width: "100%",
+                    height: "100%",
+                  }}
+                />
+              </View>
+              <View
+                style={{
+                  backgroundColor: "red",
+                  flex: 2,
+                  width: "20%",
+                  height: "80%",
+                }}
+              >
+                <Image
+                  source={item.img}
+                  resizeMode="cover"
+                  style={{
+                    width: "100%",
+                    height: "100%",
+                  }}
+                />
+              </View>
+              <View
+                style={{
+                  backgroundColor: "red",
+                  flex: 1,
+                  width: "20%",
+                  height: "60%",
+                }}
+              >
+                <Image
+                  source={item.img}
+                  resizeMode="cover"
+                  style={{
+                    width: "100%",
+                    height: "100%",
+                  }}
+                />
+              </View>
             </View>
             <View
               style={{

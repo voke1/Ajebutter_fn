@@ -1,4 +1,4 @@
-package com.cryptowalletapp;
+package com.ajebutter.app;
 
 import android.os.Bundle; // here
 
@@ -14,7 +14,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "CryptoWalletApp";
+    return "Ajebutter";
   }
 
   @Override

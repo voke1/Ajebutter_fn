@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.cryptowalletapp"
+        applicationId "com.ajebutter.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
